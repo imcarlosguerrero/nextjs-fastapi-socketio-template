@@ -1,0 +1,18 @@
+{
+	"scripts": {},
+	"formation": {
+		"web": {
+			"quantity": 1
+		}
+	},
+	"addons": [],
+	"buildpacks": [
+		{
+			"url": "heroku/python"
+		},
+		{
+			"url": "heroku/nodejs"
+		}
+	],
+	"stack": "heroku-24"
+}
