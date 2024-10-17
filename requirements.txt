@@ -1,4 +1,4 @@
 fastapi
 uvicorn[standard]
 python-socketio[asyncio]
-python-engineio @ git+https://github.com/miguelgrinberg/python-engineio
+python-engineio
